@@ -16,5 +16,3 @@ Pourquoi le digital ?
 Passionnée par les nouvelles technologies et le Web marketing, je me suis orientée vers une filière m'offrant la possibilité de concilier ma vie professionnelle et mes passions.
 
 Vous avez un projet web ou vous voulez de l'aide dans votre transition digitale ?
-
-Contactez-moi
