@@ -1,14 +1,11 @@
 enable : true
-heading : "THE PROOF IS IN THE PUDDING!"
+heading : "Mes compétences"
 counter_item: 
-  - title: "Happy Clients"
-    number: "250"
+  - title: "La Suite Adobe"
+    number: "Lightroom, Illustrator, Photoshop, Première pro, ..."
 
-  - title: "Projects Completed"
-    number: "100"
+  - title: "Les réseaux sociaux"
+    number: "Linkedin, Instagram, Youtube"
 
-  - title: "Cups of coffee"
-    number: "350"
-
-  - title: "Telephone Talks"
-    number: "775"
+  - title: "Les outils collaboratifs"
+    number: "Suite google (Drive, meet, doc, ...)"

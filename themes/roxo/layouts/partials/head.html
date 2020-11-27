@@ -22,6 +22,8 @@
   {{ range .Site.Params.css}}
   <link rel="stylesheet" href="{{ . | absURL }}">
   {{ end }}
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,300;0,700;1,300;1,700&display=swap" rel="stylesheet">
 
   <!--Favicon-->
   <link rel="shortcut icon" href="{{ "images/favicon.png" | absURL }}" type="image/x-icon" />

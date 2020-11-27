@@ -1,4 +1,105 @@
 /**
  * Feuille de style personnalisée
  ============================================ */
- 
+
+body{
+    background:rgb(255, 255, 255);
+    font-family: 'Mulish', sans-serif;
+
+    font-size: 16px;
+    color: #8d5143;
+}
+
+a {
+    color: #8d5143 ;
+}
+
+.btn-primary {
+    background: #daa385;
+    color: #fff;
+}
+.btn-primary:hover {
+    background: #c08e74;
+}
+
+.btn-secondary {
+    background: #8d5143;
+    color: #fff;
+}
+.btn-secondary:hover {
+    background: #744135;
+}
+
+.site-navigation .nav-item .nav-link {
+    color: #00113e;
+    transition: all .3s ease;
+    padding: 15px 18px;
+    position: relative;
+}
+.site-navigation .navbar-brand img {
+    max-width: 200px;
+}
+
+/** Counter */
+.site-counter {
+    padding: 85px 0;
+    color: #fff;
+    background: #daa385;
+}
+.site-counter-item-number {
+    font-size: 24px;
+}
+
+.site-footer {
+    background: #daa385;
+    padding: 100px 0;
+}
+
+.site-hero {
+    padding: 250px 0 150px;
+    background: #8d5143;
+}
+.site-hero-content h1 {
+    color: #daa385;
+    font-size: 20px;
+}
+.site-hero-content img {
+    max-width: 720px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: mulish,sans-serif;
+    font-weight: 600;
+    color: #8d5143;
+}
+
+.site-project-item-content span, .site-blog-post-content span {
+    font-family: montserrat,sans-serif;
+    color: #daa385;
+    display: block;
+    margin-bottom: 10px;
+}
+.site-project-pagination .pagination .page-item.active .page-link, .site-blog-pagination .pagination .page-item.active .page-link {
+    background-color: #8d5143;
+    color: #fff;
+}
+
+.site-project-cta {
+    color: #8d5143;
+}
+
+.site-project-cta:hover {
+    color: #744237;
+}
+.site-project-cta::before{
+    background: #744237;
+}
+
+.site-contact-infos h5,
+.site-contact-infos p {
+    font-size: 24px;
+}
+
+.site-contact-infos {
+    margin-top: 100px; 
+}
