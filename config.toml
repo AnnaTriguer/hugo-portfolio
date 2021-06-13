@@ -48,10 +48,11 @@ summarylength = 25
   # Banner Section
   [params.banner]
     enable                = true
-    background_image      = ""
-    heading               = "Webmarketing et Webdesign"
-    tagline               = ""
-    logo                  = "images/logo-header.png"
+    background_image      = "images/landing_page.png"
+    heading               = "Anna Triguer"
+    tagline               = "Webmarketing & Webdesign"
+    extrait               = "Créativité, passion et organisation sont les mots d'ordre dans mon travail. Etudiante en Bachelor chef de projet digital, je crois pertinemment que nous entrons dans l'ère du numérique, l'avenir est entre nos mains."
+    photo_url             = "images/photo_lp.jpg"
    
 
   [params.portfolio]

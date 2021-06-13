@@ -14,6 +14,10 @@ a {
     color: #8d5143 ;
 }
 
+img {
+    max-width: 100%;
+}
+
 .btn-primary {
     background: #daa385;
     color: #fff;
@@ -55,9 +59,10 @@ a {
     padding: 100px 0;
 }
 
+/*
 .site-hero {
     padding: 250px 0 150px;
-    background: #8d5143;
+    
 }
 .site-hero-content h1 {
     color: #daa385;
@@ -66,7 +71,52 @@ a {
 .site-hero-content img {
     max-width: 720px;
 }
+.site-hero {
+    position: relative;
+    height: 100vh;
+    background-size: contain;
+    background-position: center;
+    display: block;
+    align-items: center;
+    justify-content: center;
+    background-color: #8d5143;
+    background-repeat: no-repeat;
+}
+*/
+.site-hero {
+    background-color: #8d5143;
+    height: auto;
+    padding-top: 150px;
+    padding-bottom: 50px;
+}
+.site-hero-content h1,
+.site-hero-content p {color: white}
+.site-hero-content h1 {
+    margin-bottom: 0px;
+}
+.site-hero-content > p {
+    font-size: 1.4em;
+}
+.site-hero .btn{
+    border-radius: 50px;
+}
+.site-hero-extrait {
+background-color: #daa385;
+border-radius: 40px;
+padding: 50px;
 
+}
+.site-hero-extrait p {
+    font-size: larger;
+}
+@media (min-width: 60rem){
+
+.site-hero-extrait img {
+    margin-top: -150px;
+    margin-bottom: -80px;
+    margin-right: 50px;
+}
+ }
 h1, h2, h3, h4, h5, h6 {
     font-family: mulish,sans-serif;
     font-weight: 600;
@@ -103,3 +153,4 @@ h1, h2, h3, h4, h5, h6 {
 .site-contact-infos {
     margin-top: 100px; 
 }
+
