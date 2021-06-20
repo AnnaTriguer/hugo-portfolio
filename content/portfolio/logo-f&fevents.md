@@ -6,9 +6,9 @@ image: "images/photo-1504868584819-f8e8b4b6d7e3.jpg"
 category: ["Webmarketing"]
 ---
 
-Pour un projet d'école, j'ai réalisé deux infographie. L'une sur l'accessibilité du web, et l'autre sur les chiffres clés de la Normandie Web School. 
+Pour un projet d'école, j'ai réalisé deux infographies. L'une sur l'accessibilité du web, et l'autre sur les chiffres clés de la Normandie Web School. 
 
-L'accessibilité sur le web.
+Les chiffres clés de la Normandie Web School.
 [Télécharger le PDF](https://charles-sauvat.com/assets/anna/anna_triguer_infographie.pdf "PDF")
 
 L'accessibilité sur le web.
